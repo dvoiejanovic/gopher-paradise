@@ -27,3 +27,12 @@ func main() {
 
 	fmt.Println(v, p)
 }
+
+/* Short story
+
+Functions that take a value argument must take a value of that specific type
+Functions that take a pointer argument must take a pointer of that specific type
+
+while methods with pointer receivers take either a value or a pointer as the receiver when they are called.
+
+*/
